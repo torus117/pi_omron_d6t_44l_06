@@ -1,8 +1,6 @@
-# Omron D6T-44L-06 and CMOS camera application
-=================================
-
-## Run and Build
+# Omron D6T-44L-06 and CMOS camera application with raspberry pi 3
 ----------
+## Run and Build
 
 ```bash
 sudo apt-get install i2c-dev
@@ -11,6 +9,6 @@ cd pi_omron_d6t_44l_06/src
 make
 ```
 
-## reference
 ----------
+## reference
 * https://github.com/nobuyukioishi/D6T-44L-06_on_RasPi
